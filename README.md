@@ -1,4 +1,4 @@
-## Hello, I'm Abdulqadir Saieb and I'm 👋
+## Hello, I'm Abdulqadir Saieb👋
 
 - Passionate about data analysis and data-driven insights. 📊
 - Currently learning Data Science, ML, and Advanced Python development. 📚
