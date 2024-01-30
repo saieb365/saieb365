@@ -8,6 +8,7 @@
 
 ### Technical Skills
 
+- SQL 🗄️
 - Python 🐍
 - Pandas 🐼
 - Tableau 📊
